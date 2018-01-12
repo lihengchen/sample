@@ -11,6 +11,7 @@ class StaticPagesController extends Controller
     {
     	//$a='hello555dddd';
     	//return $a;
+     
         return view('static_pages.home');
     }
 
